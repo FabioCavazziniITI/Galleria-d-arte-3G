@@ -1,0 +1,104 @@
+div #contenitore
+{
+    width: 100%;
+    height: auto;
+    float: left;
+}
+
+div #header
+{
+    width: 100%;
+	height:auto;
+	background-image: url(../Immagini/Sfondo/Sfondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+	float: left;
+}
+
+div #colonsx
+{
+    width: 33%;
+    height: auto;
+    background-color: rgb(211, 212, 212);
+    float: left;
+    text-align: center;
+}
+
+div #colonct
+{
+    width: 34%;
+    height: auto;
+    background-color: rgb(211, 212, 212);
+    float: left;
+    text-align: center;
+}
+
+div #colondx
+{
+    width: 33%;
+    height: auto;
+    background-color: rgb(211, 212, 212);
+    float: left;
+    text-align: center;
+}
+
+.text_titolo
+{
+    text-align: center;
+}
+
+.tabella_menù
+{
+    width: 100%;
+    height: auto;
+    background-color: rgb(71, 129, 255);
+    float: left;
+    border: 0;
+}
+
+.cella
+{
+    width: 125px;
+    height: auto;
+    background-color: rgb(71, 129, 255);
+    font-size: large;
+}
+
+.immagine
+{
+    width: 350px;
+    height: 250px;
+    border-radius: 20px;
+}
+
+.descrizione_img
+{
+    text-align: center;
+}
+
+.tabella_footer
+{
+    width: 100%;
+    height: auto;
+    background-color: rgb(71, 129, 255);
+    float: left;
+    border: 0;
+    text-align: center;
+}
+
+.img_footer
+{
+    width: 150px;
+    height: 105px;
+    border-radius: 20px;
+}
+
+a
+{
+    color: black;
+}
+
+h1
+{
+    color:white
+}

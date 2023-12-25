@@ -1,0 +1,93 @@
+div #contenitore
+{
+    width: 100%;
+    height: auto;
+    float: left;
+}
+
+div #header
+{
+    width: 100%;
+	height:auto;
+	background-image: url(../Immagini/Sfondo/Sfondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+	float: left;
+}
+
+div #spiegazione
+{
+    background-color: rgb(211, 212, 212);
+}
+
+.text_titolo
+{
+    text-align: center;
+}
+
+.tabella_menù
+{
+    width: 100%;
+    height: auto;
+    background-color: rgb(71, 129, 255);
+    float: left;
+    border: 0;
+}
+
+.cella
+{
+    width: 125px;
+    height: auto;
+    background-color: rgb(71, 129, 255);
+    font-size: large;
+}
+
+.immagine
+{
+    width: 650px;
+    height: 450px;
+    border-radius: 20px;
+    margin-top: 30px;
+}
+
+.tabella_footer
+{
+    width: 100%;
+    height: auto;
+    background-color: rgb(71, 129, 255);
+    float: left;
+    border: 0;
+    text-align: center;
+}
+
+.img_footer
+{
+    width: 150px;
+    height: 105px;
+    border-radius: 20px;
+}
+
+a
+{
+    color: black;
+}
+
+p
+{
+    margin-left: 30px;
+    font-style: oblique;
+    margin-top: -20px;
+    font-size: medium;
+}
+
+h5
+{
+    margin-left: 10px;
+    margin-top: 35px;
+    font-size:large;
+}
+
+h1
+{
+    color:white
+}
